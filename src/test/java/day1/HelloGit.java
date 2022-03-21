@@ -11,6 +11,8 @@ public class HelloGit {
         
         
         //burada degisiklik yaptim.
+        //localde ayni yere yazi yazdim
+        //bakalim ne olcak
         
     }
 }
