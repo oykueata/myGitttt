@@ -15,5 +15,6 @@ public class HelloGit {
         //bakalim ne olcak
         //buradada yaptim ve daha update etmedim
 //deneme 1
+        //denem1 remote
     }
 }
