@@ -14,6 +14,6 @@ public class HelloGit {
         //localde ayni yere yazi yazdim
         //bakalim ne olcak
         //buradada yaptim ve daha update etmedim
-
+//deneme 1
     }
 }
