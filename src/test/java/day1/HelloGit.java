@@ -6,5 +6,7 @@ public class HelloGit {
         System.out.println("ilk add den sonra birseyler ekledim");
         System.out.println("bir sey");
         //java fail ini editledim.remote da.bakalim pull edebilecekmiyim:)
+
+        //yyy brachi ile yaptim
     }
 }
