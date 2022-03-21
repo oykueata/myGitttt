@@ -8,5 +8,9 @@ public class HelloGit {
         //java fail ini editledim.remote da.bakalim pull edebilecekmiyim:)
 
         //yyy brachi ile yaptim
+        
+        
+        //burada degisiklik yaptim.
+        
     }
 }
