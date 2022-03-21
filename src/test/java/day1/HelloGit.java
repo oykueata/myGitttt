@@ -11,6 +11,7 @@ public class HelloGit {
         
         
         //burada degisiklik yaptim.
+        //buradada yaptim ve daha update etmedim
         
     }
 }
