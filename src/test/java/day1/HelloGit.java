@@ -14,7 +14,11 @@ public class HelloGit {
         //localde ayni yere yazi yazdim
         //bakalim ne olcak
         //buradada yaptim ve daha update etmedim
+
+//conflict olusturma ayri branchlarda
+
 //deneme 1
         //denem1 remote
+
     }
 }
